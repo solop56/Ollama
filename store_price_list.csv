@@ -1,0 +1,135 @@
+SKU,Category,Item Description,Unit / Pack Size,Case Size,Wholesale Case Cost (USD),Unit Retail Price (USD)
+PRD-1001,"Fresh Produce, Dairy, Meat & Frozen",Gala Apples (Grade A),1 kg Bag,12 Bags,28.80,3.25
+PRD-1002,"Fresh Produce, Dairy, Meat & Frozen",Cavendish Bananas,1 kg Bunch,18 kg Box,19.80,1.65
+PRD-1003,"Fresh Produce, Dairy, Meat & Frozen",Navel Oranges (Seedless),2 kg Mesh Bag,10 Bags,34.00,4.50
+PRD-1004,"Fresh Produce, Dairy, Meat & Frozen",Red Seedless Grapes,500 g Clamshell,12 Packs,26.40,3.10
+PRD-1005,"Fresh Produce, Dairy, Meat & Frozen",Roma Tomatoes (Greenhouse),1 kg Pack,10 Packs,21.00,2.95
+PRD-1006,"Fresh Produce, Dairy, Meat & Frozen",Russet Potatoes (Washed),5 kg Sack,5 Sacks,22.50,5.99
+PRD-1007,"Fresh Produce, Dairy, Meat & Frozen",Yellow Storage Onions,2 kg Mesh Bag,12 Bags,24.00,2.85
+PRD-1008,"Fresh Produce, Dairy, Meat & Frozen",Fresh Broccoli Crowns,500 g Pack,14 Packs,23.80,2.40
+PRD-1009,"Fresh Produce, Dairy, Meat & Frozen",Baby Spinach (Triple Washed),250 g Clamshell,12 Packs,21.60,2.65
+PRD-1010,"Fresh Produce, Dairy, Meat & Frozen",Whole Carrots,1 kg Bag,15 Bags,18.00,1.75
+DRY-2001,"Fresh Produce, Dairy, Meat & Frozen",Whole Pasteurized Milk (3.25%),2 Liters,6 Jugs,15.60,3.45
+DRY-2002,"Fresh Produce, Dairy, Meat & Frozen",Skim Milk (Fat-Free),2 Liters,6 Jugs,14.70,3.25
+DRY-2003,"Fresh Produce, Dairy, Meat & Frozen",Unsalted Creamery Butter,454 g Block,12 Blocks,45.60,4.99
+DRY-2004,"Fresh Produce, Dairy, Meat & Frozen",Mild Cheddar Cheese Block,400 g Pack,12 Packs,43.20,4.85
+DRY-2005,"Fresh Produce, Dairy, Meat & Frozen",Mozzarella Shredded Cheese,350 g Pouch,12 Pouches,39.60,4.49
+DRY-2006,"Fresh Produce, Dairy, Meat & Frozen",Plain Greek Yogurt (5%),750 g Tub,8 Tubs,27.20,4.65
+DRY-2007,"Fresh Produce, Dairy, Meat & Frozen",Large Grade-A White Eggs,12 Count Carton,15 Cartons,39.00,3.59
+DRY-2008,"Fresh Produce, Dairy, Meat & Frozen",Large Grade-A Brown Eggs,30 Count Tray,6 Trays,43.50,9.25
+DRY-2009,"Fresh Produce, Dairy, Meat & Frozen",Heavy Whipping Cream (35%),473 ml Carton,12 Cartons,31.20,3.50
+MET-3001,"Fresh Produce, Dairy, Meat & Frozen",Boneless Skinless Chicken Breast,1 kg Tray,8 Trays,58.40,9.49
+MET-3002,"Fresh Produce, Dairy, Meat & Frozen",Whole Roasting Chicken,1.8 kg Avg,6 Birds,37.80,8.25
+MET-3003,"Fresh Produce, Dairy, Meat & Frozen",Chicken Drumsticks (Family Pack),1.5 kg Tray,8 Trays,36.00,5.99
+MET-3004,"Fresh Produce, Dairy, Meat & Frozen",Lean Ground Beef (85/15),1 kg Roll,10 Rolls,64.00,8.49
+MET-3005,"Fresh Produce, Dairy, Meat & Frozen",Beef Sirloin Steak (Choice),500 g Pack,10 Packs,68.00,8.99
+MET-3006,"Fresh Produce, Dairy, Meat & Frozen",Beef Stew Cubes (Boneless),1 kg Pack,8 Packs,59.20,9.50
+MET-3007,"Fresh Produce, Dairy, Meat & Frozen",Atlantic Salmon Fillets (Skin-On),400 g Vacuum Pack,10 Packs,65.00,8.75
+FRZ-4001,"Fresh Produce, Dairy, Meat & Frozen",Frozen Mixed Vegetables,1 kg Bag,12 Bags,22.80,2.69
+FRZ-4002,"Fresh Produce, Dairy, Meat & Frozen",Crinkle-Cut French Fries,2 kg Bag,6 Bags,20.40,4.59
+FRZ-4003,"Fresh Produce, Dairy, Meat & Frozen",Frozen Sweet Green Peas,750 g Bag,12 Bags,19.20,2.29
+FRZ-4004,"Fresh Produce, Dairy, Meat & Frozen",Vanilla Bean Ice Cream,1.5 Liter Tub,6 Tubs,25.80,5.79
+FRZ-4005,"Fresh Produce, Dairy, Meat & Frozen",Frozen Tiger Prawns (Peeled),500 g Bag,10 Bags,72.00,9.75
+GRO-5001,"Dry Grocery, Grains, Flour, Oils & Canned Goods",Long-Grain Parboiled Rice,5 kg Bag,4 Bags,34.00,10.99
+GRO-5002,"Dry Grocery, Grains, Flour, Oils & Canned Goods",Long-Grain Parboiled Rice (Bulk),25 kg Sack,1 Sack,38.50,47.99
+GRO-5003,"Dry Grocery, Grains, Flour, Oils & Canned Goods",Jasmine Fragrant White Rice,2 kg Bag,10 Bags,36.00,4.85
+GRO-5004,"Dry Grocery, Grains, Flour, Oils & Canned Goods",Basmati Premium Rice,5 kg Bag,4 Bags,44.00,13.99
+GRO-5005,"Dry Grocery, Grains, Flour, Oils & Canned Goods",All-Purpose Unbleached Flour,2 kg Bag,10 Bags,22.00,3.15
+GRO-5006,"Dry Grocery, Grains, Flour, Oils & Canned Goods",Whole Wheat Bread Flour,2 kg Bag,10 Bags,24.50,3.45
+GRO-5007,"Dry Grocery, Grains, Flour, Oils & Canned Goods",Fine Granulated White Sugar,2 kg Bag,10 Bags,23.00,3.20
+GRO-5008,"Dry Grocery, Grains, Flour, Oils & Canned Goods",Light Brown Cane Sugar,1 kg Pouch,12 Pouches,21.60,2.50
+GRO-5009,"Dry Grocery, Grains, Flour, Oils & Canned Goods",Iodized Fine Table Salt,1 kg Box,24 Boxes,19.20,1.15
+GRO-5010,"Dry Grocery, Grains, Flour, Oils & Canned Goods",Pure Vegetable Cooking Oil,3 Liter Bottle,6 Bottles,37.20,7.99
+GRO-5011,"Dry Grocery, Grains, Flour, Oils & Canned Goods",Extra Virgin Olive Oil,750 ml Glass Bottle,12 Bottles,96.00,10.99
+GRO-5012,"Dry Grocery, Grains, Flour, Oils & Canned Goods",Pure Sunflower Oil,1.5 Liter Bottle,12 Bottles,39.60,4.49
+GRO-5013,"Dry Grocery, Grains, Flour, Oils & Canned Goods",Durum Wheat Spaghetti,500 g Pack,20 Packs,21.00,1.49
+GRO-5014,"Dry Grocery, Grains, Flour, Oils & Canned Goods",Penne Rigate Pasta,500 g Pack,20 Packs,22.00,1.55
+GRO-5015,"Dry Grocery, Grains, Flour, Oils & Canned Goods",Elbow Macaroni,500 g Pack,20 Packs,20.00,1.45
+GRO-5016,"Dry Grocery, Grains, Flour, Oils & Canned Goods",Instant Chicken Ramen Noodles,70 g Pack (5-Pack),8 Bundles,18.40,3.15
+GRO-5017,"Dry Grocery, Grains, Flour, Oils & Canned Goods",Rolled Old-Fashioned Oats,1 kg Tin,12 Tins,33.60,3.89
+GRO-5018,"Dry Grocery, Grains, Flour, Oils & Canned Goods",Corn Flakes Breakfast Cereal,500 g Box,12 Boxes,28.80,3.35
+GRO-5019,"Dry Grocery, Grains, Flour, Oils & Canned Goods",Double Concentrated Tomato Paste,400 g Tin,24 Tins,28.80,1.69
+GRO-5020,"Dry Grocery, Grains, Flour, Oils & Canned Goods",Whole Peeled Plum Tomatoes,796 ml Tin,12 Tins,21.60,2.49
+GRO-5021,"Dry Grocery, Grains, Flour, Oils & Canned Goods",Baked Beans in Tomato Sauce,400 g Tin,24 Tins,26.40,1.55
+GRO-5022,"Dry Grocery, Grains, Flour, Oils & Canned Goods",Red Kidney Beans (Brine),400 g Tin,24 Tins,22.80,1.35
+GRO-5023,"Dry Grocery, Grains, Flour, Oils & Canned Goods",Sweet Kernel Corn,340 g Tin,24 Tins,24.00,1.40
+GRO-5024,"Dry Grocery, Grains, Flour, Oils & Canned Goods",Chunk Light Tuna in Water,170 g Tin,24 Tins,33.60,1.95
+GRO-5025,"Dry Grocery, Grains, Flour, Oils & Canned Goods",Sardines in Vegetable Oil,125 g Tin,50 Tins,52.50,1.45
+GRO-5026,"Dry Grocery, Grains, Flour, Oils & Canned Goods",Creamy Peanut Butter,500 g Jar,12 Jars,32.40,3.75
+GRO-5027,"Dry Grocery, Grains, Flour, Oils & Canned Goods",Strawberry Fruit Preserve,375 g Jar,12 Jars,27.60,3.25
+GRO-5028,"Dry Grocery, Grains, Flour, Oils & Canned Goods",Real Mayonnaise,750 ml Jar,12 Jars,42.00,4.79
+GRO-5029,"Dry Grocery, Grains, Flour, Oils & Canned Goods",Tomato Ketchup (Squeeze Bottle),750 ml Bottle,12 Bottles,28.80,3.35
+GRO-5030,"Dry Grocery, Grains, Flour, Oils & Canned Goods",Chicken Bouillon Seasoning Cubes,50 Cube Pack,24 Packs,45.60,2.65
+BEV-6001,"Beverages, Coffee, Tea & Juices",Purified Still Bottled Water,500 ml (24-Pack),1 Case,3.40,4.99
+BEV-6002,"Beverages, Coffee, Tea & Juices",Purified Still Bottled Water (Dispenser),18.9 Liter Jug,1 Jug,4.20,6.50
+BEV-6003,"Beverages, Coffee, Tea & Juices",Sparkling Mineral Water,1 Liter Bottle,12 Bottles,13.20,1.59
+BEV-6004,"Beverages, Coffee, Tea & Juices",Classic Cola Soft Drink,330 ml Can (12-Pack),2 Packs,12.80,7.99
+BEV-6005,"Beverages, Coffee, Tea & Juices",Classic Cola Soft Drink (PET),1.5 Liter Bottle,12 Bottles,19.20,2.25
+BEV-6006,"Beverages, Coffee, Tea & Juices",Lemon-Lime Soda,330 ml Can (12-Pack),2 Packs,12.60,7.89
+BEV-6007,"Beverages, Coffee, Tea & Juices",Non-Alcoholic Malt Drink,330 ml Can (6-Pack),4 Packs,19.60,6.49
+BEV-6008,"Beverages, Coffee, Tea & Juices",100% Pure Orange Juice (No Pulp),1 Liter Tetra Pak,12 Packs,22.80,2.65
+BEV-6009,"Beverages, Coffee, Tea & Juices",100% Apple Juice,1 Liter Tetra Pak,12 Packs,21.60,2.50
+BEV-6010,"Beverages, Coffee, Tea & Juices",Tropical Fruit Nectar Blend,1 Liter Tetra Pak,12 Packs,20.40,2.39
+BEV-6011,"Beverages, Coffee, Tea & Juices",Freeze-Dried Instant Coffee,200 g Glass Jar,12 Jars,64.80,7.49
+BEV-6012,"Beverages, Coffee, Tea & Juices",Medium Roast Ground Arabica Coffee,400 g Vacuum Brick,12 Packs,69.60,7.99
+BEV-6013,"Beverages, Coffee, Tea & Juices",Black Tea Bags (100 Count),200 g Box,24 Boxes,52.80,3.15
+BEV-6014,"Beverages, Coffee, Tea & Juices",Pure Green Tea Bags (50 Count),100 g Box,24 Boxes,48.00,2.85
+BEV-6015,"Beverages, Coffee, Tea & Juices",Malted Chocolate Food Drink Powder,400 g Tin,12 Tins,38.40,4.45
+BEV-6016,"Beverages, Coffee, Tea & Juices",Full-Cream Instant Milk Powder,400 g Tin,12 Tins,46.80,5.39
+BEV-6017,"Beverages, Coffee, Tea & Juices",Isotonic Sports Electrolyte Drink,500 ml Bottle,24 Bottles,26.40,1.59
+BEV-6018,"Beverages, Coffee, Tea & Juices",Taurine Energy Drink,250 ml Can,24 Cans,31.20,1.85
+SNK-7001,"Bakery, Snacks & Confectionery",Sliced White Sandwich Bread,700 g Loaf,10 Loaves,16.50,2.35
+SNK-7002,"Bakery, Snacks & Confectionery",Sliced Whole Wheat Bread,700 g Loaf,10 Loaves,18.00,2.55
+SNK-7003,"Bakery, Snacks & Confectionery",Hamburger Sesame Seed Buns,8 Count Pack,12 Packs,22.80,2.69
+SNK-7004,"Bakery, Snacks & Confectionery",Butter Croissants (Bakery Fresh),4 Count Clamshell,8 Packs,24.00,4.25
+SNK-7005,"Bakery, Snacks & Confectionery",Rich Tea Digestive Biscuits,400 g Roll,24 Rolls,36.00,2.15
+SNK-7006,"Bakery, Snacks & Confectionery",Chocolate Chip Cookies,300 g Tray,18 Trays,34.20,2.69
+SNK-7007,"Bakery, Snacks & Confectionery",Cream Crackers,200 g Pack,24 Packs,26.40,1.55
+SNK-7008,"Bakery, Snacks & Confectionery",Salted Potato Crisps (Family Size),150 g Bag,18 Bags,30.60,2.45
+SNK-7009,"Bakery, Snacks & Confectionery",Cheese & Onion Potato Crisps,150 g Bag,18 Bags,30.60,2.45
+SNK-7010,"Bakery, Snacks & Confectionery",Roasted & Salted Cashew Nuts,250 g Pouch,12 Pouches,45.60,5.25
+SNK-7011,"Bakery, Snacks & Confectionery",Dry Roasted Peanuts,400 g Jar,12 Jars,27.60,3.20
+SNK-7012,"Bakery, Snacks & Confectionery",Milk Chocolate Bar,100 g Bar,24 Bars,33.60,1.99
+SNK-7013,"Bakery, Snacks & Confectionery",Dark Chocolate Bar (70% Cocoa),100 g Bar,24 Bars,38.40,2.29
+SNK-7014,"Bakery, Snacks & Confectionery",Spearmint Sugar-Free Chewing Gum,14 Piece Blister,30 Packs,24.00,1.19
+HHC-8001,"Household Cleaning, Paper Goods & Laundry",High-Efficiency Laundry Detergent Powder,2 kg Bag,6 Bags,31.20,7.25
+HHC-8002,"Household Cleaning, Paper Goods & Laundry",Liquid Laundry Detergent (Fresh Linen),3 Liter Jug,4 Jugs,32.80,11.25
+HHC-8003,"Household Cleaning, Paper Goods & Laundry",Fabric Conditioner & Softener,1.5 Liter Bottle,8 Bottles,26.40,4.59
+HHC-8004,"Household Cleaning, Paper Goods & Laundry",Lemon Dishwashing Liquid,750 ml Bottle,12 Bottles,24.00,2.79
+HHC-8005,"Household Cleaning, Paper Goods & Laundry",Chlorine Household Bleach,2 Liter Jug,8 Jugs,16.80,2.95
+HHC-8006,"Household Cleaning, Paper Goods & Laundry",Pine Multi-Surface Floor Cleaner,1.5 Liter Bottle,12 Bottles,28.80,3.35
+HHC-8007,"Household Cleaning, Paper Goods & Laundry",Antiseptic Liquid Disinfectant,500 ml Bottle,12 Bottles,39.60,4.59
+HHC-8008,"Household Cleaning, Paper Goods & Laundry",Streak-Free Glass & Window Trigger Spray,750 ml Spray,12 Bottles,25.20,2.95
+HHC-8009,"Household Cleaning, Paper Goods & Laundry",Aerosol Multi-Insect Killer Spray,400 ml Can,12 Cans,34.80,3.99
+HHC-8010,"Household Cleaning, Paper Goods & Laundry",Heavy-Duty Scouring Sponges,5 Count Pack,24 Packs,28.80,1.69
+HHC-8011,"Household Cleaning, Paper Goods & Laundry",2-Ply Quilted Toilet Tissue,12 Roll Pack,4 Packs,20.80,7.25
+HHC-8012,"Household Cleaning, Paper Goods & Laundry",2-Ply Absorbent Kitchen Paper Towels,2 Jumbo Roll Pack,12 Packs,28.80,3.35
+HHC-8013,"Household Cleaning, Paper Goods & Laundry",Facial Tissues (2-Ply Flat Box),150 Sheet Box,24 Boxes,28.80,1.69
+HHC-8014,"Household Cleaning, Paper Goods & Laundry",Heavy-Duty Drawstring Trash Bags (90L),20 Count Roll,12 Rolls,36.00,4.19
+HHC-8015,"Household Cleaning, Paper Goods & Laundry",Heavy-Duty Aluminum Catering Foil,30 Meter Roll,12 Rolls,33.60,3.89
+HHC-8016,"Household Cleaning, Paper Goods & Laundry",Microwave-Safe Cling Film Wrap,60 Meter Roll,12 Rolls,25.20,2.95
+HPC-9001,"Health, Beauty & Personal Care",Fluoride Cavity Protection Toothpaste,125 ml Tube,24 Tubes,38.40,2.25
+HPC-9002,"Health, Beauty & Personal Care",Medium Bristle Adult Toothbrush,2 Count Blister,24 Packs,36.00,2.15
+HPC-9003,"Health, Beauty & Personal Care",Antiseptic Mint Mouthwash,500 ml Bottle,12 Bottles,37.20,4.29
+HPC-9004,"Health, Beauty & Personal Care",Antibacterial Bathing Bar Soap,125 g Bar (4-Pack),12 Packs,36.00,4.19
+HPC-9005,"Health, Beauty & Personal Care",Moisturizing Cream Body Wash,500 ml Pump Bottle,12 Bottles,42.00,4.89
+HPC-9006,"Health, Beauty & Personal Care",Anti-Dandruff Daily Shampoo,400 ml Bottle,12 Bottles,45.60,5.25
+HPC-9007,"Health, Beauty & Personal Care",Shea Butter Body Lotion,400 ml Bottle,12 Bottles,39.60,4.59
+HPC-9008,"Health, Beauty & Personal Care",Pure Petroleum Jelly,250 ml Tub,24 Tubs,43.20,2.49
+HPC-9009,"Health, Beauty & Personal Care",48-Hour Antiperspirant Roll-On,50 ml Bottle,24 Bottles,40.80,2.39
+HPC-9010,"Health, Beauty & Personal Care",Triple-Blade Disposable Razors,5 Count Bag,24 Bags,57.60,3.45
+HPC-9011,"Health, Beauty & Personal Care",Ultra-Thin Sanitary Pads (With Wings),10 Count Pack,24 Packs,33.60,1.99
+HPC-9012,"Health, Beauty & Personal Care",Breathable Baby Diapers (Size 4 Midi),44 Count Jumbo Pack,4 Packs,41.60,13.99
+HPC-9013,"Health, Beauty & Personal Care",Unscented Baby Wet Wipes,80 Sheet Flip-Top,18 Packs,25.20,1.99
+HPC-9014,"Health, Beauty & Personal Care",70% Isopropyl Rubbing Alcohol,500 ml Bottle,12 Bottles,22.80,2.65
+HPC-9015,"Health, Beauty & Personal Care",Assorted Waterproof Adhesive Bandages,50 Count Box,24 Boxes,38.40,2.29
+HDW-0101,"Hardware, Electrical & Store Supplies",LED A19 Light Bulb (9W Daylight 6500K),4 Count Box,12 Boxes,57.60,6.75
+HDW-0102,"Hardware, Electrical & Store Supplies",AA Alkaline Long-Life Batteries,4 Count Blister,24 Packs,48.00,2.85
+HDW-0103,"Hardware, Electrical & Store Supplies",AAA Alkaline Long-Life Batteries,4 Count Blister,24 Packs,48.00,2.85
+HDW-0104,"Hardware, Electrical & Store Supplies",6-Outlet Surge Protector Power Strip (2m),1 Unit Box,10 Units,85.00,11.99
+HDW-0105,"Hardware, Electrical & Store Supplies",Heavy-Duty Silver Duct Tape,48mm x 50m Roll,12 Rolls,42.00,4.89
+HDW-0106,"Hardware, Electrical & Store Supplies",Clear Acrylic Packaging Tape,48mm x 100m Roll,24 Rolls,36.00,2.15
+HDW-0107,"Hardware, Electrical & Store Supplies",Brass Security Padlock (50mm Hardened),1 Unit Blister,12 Units,66.00,7.75
+HDW-0108,"Hardware, Electrical & Store Supplies",Cyanoacrylate Instant Super Glue,3 g Tube (2-Pack),36 Packs,39.60,1.59
+HDW-0109,"Hardware, Electrical & Store Supplies",Multi-Purpose Lubricant & Penetrating Spray,300 ml Aerosol Can,12 Cans,54.00,6.25
+HDW-0110,"Hardware, Electrical & Store Supplies",Rechargeable LED Emergency Lantern,1 Unit Box,8 Units,92.00,15.99
